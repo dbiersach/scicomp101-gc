@@ -1,2 +1,1 @@
-# scicomp101-gc
-Foundations of Scientific Computing using Google Colab
+# Foundations of Scientific Computing Using Google Colab
