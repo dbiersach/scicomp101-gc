@@ -10,5 +10,5 @@ To copy this repository to your Google Drive, please open this notebook and run 
 [Session 01 - Introducing Scientific Computing.pptx](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EQa795IWBf5PjaFqUO05dxkB7HZoZI0_m3KINKHFHzloxw)\
 [Session 02 - Python Fundamentals.pptx](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EQFyW-G4bk9JokCnmhZmCnoBLb9xrJmaqS4HZJDvo2QDCA?e=03K4hM)\
 [Session 03 - Making Line Graphs.pptx](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EejwiZhOflZDq-MXORPI6L0BmOTPjIkqSlZOzF52sU_uOg?e=FcLxyE)\
-[Session 04 - Functions and Logic.pptx](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EY7aiyA3_llIo2F7M8ieYNIBBwBmf5QuF7j20szB02uKjg?e=qwtteJ)
-
+[Session 04 - Functions and Logic.pptx](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EY7aiyA3_llIo2F7M8ieYNIBBwBmf5QuF7j20szB02uKjg?e=qwtteJ)\
+[Session 05 - Square Roots and Areas.pptx](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/Eajjh4I3Bz5Iv6ZWLQ-pnCMBs6wVIPhduHsVoyeO45geWQ?e=4bJW6l)
