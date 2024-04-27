@@ -13,4 +13,5 @@ To copy this repository to your Google Drive, please open this notebook and run 
 [Session 04 - Functions and Logic](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EY7aiyA3_llIo2F7M8ieYNIBBwBmf5QuF7j20szB02uKjg?e=qwtteJ)\
 [Session 05 - Square Roots and Areas](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/Eajjh4I3Bz5Iv6ZWLQ-pnCMBs6wVIPhduHsVoyeO45geWQ?e=4bJW6l)\
 [Session 06 - Polar Coordinates](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EY2g8S1drE9KhYOQRmYGU5IBuCdY2UjVcnGTiMcddBKVqw?e=Ze8o3f)\
-[Session 07 - Probability and Statistics](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/Ed1K5NfKVBtLldjPTmK1994BBYzvFZpdU9u93Ps8Qvx-mw?e=HsCcq1)
+[Session 07 - Probability and Statistics](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/Ed1K5NfKVBtLldjPTmK1994BBYzvFZpdU9u93Ps8Qvx-mw?e=HsCcq1)\
+[Session 08 - Histograms and Code Breaking](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EQUEdCEVPDFGp_Fic8uzR6oBJr6e1ullF4xH1_GAAk4NrA?e=PdCcG3)
