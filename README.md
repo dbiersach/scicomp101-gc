@@ -15,4 +15,5 @@ To copy this repository to your Google Drive, please open this notebook and run 
 [Session 06 - Polar Coordinates](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EY2g8S1drE9KhYOQRmYGU5IBuCdY2UjVcnGTiMcddBKVqw?e=Ze8o3f)\
 [Session 07 - Probability and Statistics](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/Ed1K5NfKVBtLldjPTmK1994BBYzvFZpdU9u93Ps8Qvx-mw?e=HsCcq1)\
 [Session 08 - Histograms and Code Breaking](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EQUEdCEVPDFGp_Fic8uzR6oBJr6e1ullF4xH1_GAAk4NrA?e=PdCcG3)\
-[Session 09 - Measuring Waves](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EUoQkzHj2shIlRucdBCzPygBDkeEWdJQNJ0jgXRO9odslA?e=fNSHwB)
+[Session 09 - Measuring Waves](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EUoQkzHj2shIlRucdBCzPygBDkeEWdJQNJ0jgXRO9odslA?e=fNSHwB)\
+[Session 10 - Random Numbers and Algorithms](https://brookhavenlab.sharepoint.com/:p:/s/scicomp101/EZZhdlIgxY5JrWC6GkW9SUcBiSOtGwT85WyV3g2Rrsbtuw?e=VQbWa7)
